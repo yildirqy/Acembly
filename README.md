@@ -1,2 +1,2 @@
 # Acembly
-evet evet o 
+Acembly İstanbul Gelişim Üniversitesi Bilişim Güvenliği Teknolojileri 1. sınıf öğrencileri tarafından yapılıp geliştirilmekte olan masaüstü uygulamalı yazılım eğitimi amacıyla hayata geçirilmiş bir proje.
